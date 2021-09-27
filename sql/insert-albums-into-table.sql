@@ -5,4 +5,4 @@ Insert INTO Albums (artists_id, albumname) VALUES (4, 'albumD');
 Insert INTO Albums (artists_id, albumname) VALUES (5, 'albumE');
 Insert INTO Albums (artists_id, albumname) VALUES (6, 'albumF');
 
-Select * from albums;
+-- Select * from albums;

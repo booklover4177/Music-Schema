@@ -11,4 +11,4 @@ Insert INTO Songs (album_id, artist_id, songname) Values (5,5, 'second');
 Insert INTO Songs (album_id, artist_id, songname) Values (6,6, 'first');
 Insert INTO Songs (album_id, artist_id, songname) Values (6,6, 'second');
 
-Select * FROM Songs;
+-- Select * FROM Songs;
